@@ -6,7 +6,6 @@ import pysge_globals
 from appmanager import appmanager
 from appinterface import appinterface
 from panel_dc import panel_dc
-from dialog_load import dialog_load
 
 ID_MENU_FILE_LOAD = wx.NewId()
 ID_MENU_FILE_UNLOAD = wx.NewId()
